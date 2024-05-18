@@ -1,0 +1,72 @@
+.a{
+    height: 300px;
+    width: 80%;
+    border: 1pxsolid;
+    border-radius: 8px;
+    margin-left: 70px;
+    background-image: url(Image1.jpg);
+    background-position: cover;
+    
+    
+}
+.thirdlayer{
+    background-color: rgb(196, 182, 167);
+    display: inline-flex;
+    position: relative;
+    bottom: 35px;
+    
+    
+}
+.locationicon{
+    margin-top: 15px;
+}
+
+.b{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: xx-large;
+}
+.location{
+    height: 100px;
+    width:800px;
+    border:1px solid;
+    margin-bottom: 50px;
+}
+.btn-1{
+    border-radius: 12px;
+    height: 30px;
+    width: 100px;
+    color:black;
+    background-color: white;
+    border: 0px;
+  
+}
+
+.btn-2{
+    border-radius: 8px;
+    height:30px;
+    width: 100px;
+    color:white;
+    background-color:black;
+
+}
+.bi-search{
+    color: black;
+}
+.bi-search2{
+    height: 40px;
+    width: 40px;
+    padding: 10px;
+    color: white;
+    background-color: black;
+    border-radius: 8px;
+}
+
+.ratingbox{
+    height: 20px;
+    width:20px;
+    background-color: orange;
+    position: relative;
+    top:20px;
+    float: right;
+    align-items: end;
+}
